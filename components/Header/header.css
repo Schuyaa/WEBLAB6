@@ -1,0 +1,16 @@
+.header-container {
+    position: fixed;
+    height: 50px;
+    width: 150px;
+    padding: var(--spacing-small);
+    background-color: var(--color-medium);
+    border-radius: var(--border-radius);
+    text-align: center;
+}
+.header-counter {
+    margin-top: 4%;
+    padding-right: var(--spacing-small);
+    letter-spacing: 1%;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
